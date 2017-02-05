@@ -119,6 +119,7 @@ function solve() {
 	}());
 
 	return library;
+
 }
 
 module.exports = solve;
